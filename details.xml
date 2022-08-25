@@ -1,0 +1,17 @@
+<StudentDetailsList>
+<StudentDetails>
+<id>1</id>
+<name>pavan</name>
+<age>23</age>
+</StudentDetails>
+<StudentDetails>
+<id>2</id>
+<name>name</name>
+<age>20</age>
+</StudentDetails>
+<StudentDetails>
+<id>3</id>
+<name>poorna</name>
+<age>23</age>
+</StudentDetails>
+</StudentDetailsList>
