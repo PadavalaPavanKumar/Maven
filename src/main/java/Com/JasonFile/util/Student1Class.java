@@ -28,6 +28,15 @@ public class Student1Class {
 	public String toString() {
 		// TODO Auto-generated method stub
 		return "student1Class [ name = "+name+",id = "+id+"]";
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 
 
